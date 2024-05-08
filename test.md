@@ -15,5 +15,5 @@ Since i am working on Vscode here are the tools i used
 
 ## Terminal Screenshots !! 
 since we are working with Conda we need this terminal 
-[image](https://github.com/RMUR99/BLOG/assets/85951306/ab2807e9-5079-48d4-b54c-b5e3dc665229)
+image https://github.com/RMUR99/BLOG/assets/85951306/ab2807e9-5079-48d4-b54c-b5e3dc665229
 
